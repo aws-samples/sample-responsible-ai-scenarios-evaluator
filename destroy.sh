@@ -1,0 +1,1 @@
+uv run cdk destroy --all --require-approval never
